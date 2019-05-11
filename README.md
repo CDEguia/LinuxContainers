@@ -15,7 +15,7 @@ The lessons these notes were created from are located at [Linux Academy](https:/
 - ## [LXC/LXD Images](/lxdLxcImage#lxclxd-images)
   - ### [LXC Images](/lxdLxcImages#lxc-images)
     - #### [LXC Images Part 1: Remotes](/lxdLxcImages#lxc-images-part-1-remotes)
-    - #### [LXC Images Part 2: Remotes](/lxdLxcImages#lxc-images-part-2-remotes)
+    - #### [LXC Images Part 2: Remotes](/lxdLxcImages#lxc-images-part-2-publishing-exporting-and-Examining)
 
 ## Other links
 - [Setting up the RaspberryPi for running Containers](/RaspberryPi_Setup.md)
