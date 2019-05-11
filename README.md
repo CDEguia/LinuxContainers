@@ -3,7 +3,7 @@ The lessons these notes were created from are located at [Linux Academy](https:/
 
 - ## [Getting Started With LXC/LXD](/GettingStarted.md)
   - ### [Into to Containers](/GettingStarted.md#into-to-containers)
-- ## [LXC/LXD: Installation and Configuration](/GettingStarted.md)
+- ## [LXC/LXD: Installation and Configuration](/LxcLxdInstallConfig.md)
   - ### [Installing LXC/LXD](/LxcLxdInstallConfig.md#installing-lxclxd)
     -  #### [Install LXD](/LxcLxdInstallConfig.md#install-lxd)
     -  #### [Lecture: Troubleshooting LXD Installations](/LxcLxdInstallConfig.md#lecture-troubleshooting-lxd-installations)
