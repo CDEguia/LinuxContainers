@@ -12,11 +12,11 @@ The lessons these notes were created from are located at [Linux Academy](https:/
        - #### [Launching Your First Container, Part 2](/LxcLxdInstallConfig.md#launching-your-first-container-part-2)
      - #### [Lecture: Launching Your First Container, Part 3](/LxcLxdInstallConfig.md#lecture-launching-your-first-container-part-3)
      - #### [Exercise: Launching Your First Container](/LxcLxdInstallConfig.md#exercise-launching-your-first-container)
-- ## [LXC/LXD Images](/lxdLxcImages#lxclxd-images)
+- ## [LXC/LXD Images](/lxdLxcImage#lxclxd-images)
   - ### [LXC Images](/lxdLxcImages#lxc-images)
     - #### [LXC Images Part 1: Remotes](/lxdLxcImages#lxc-images-part-1-remotes)
     - #### [LXC Images Part 2: Remotes](/lxdLxcImages#lxc-images-part-2-remotes)
 
 ## Other links
 - [Setting up the RaspberryPi for running Containers](/RaspberryPi_Setup.md)
-- [Try LXD on line](https://linuxcontainers.org/lxd/try-it/)
+- Try LXD on line at [Linux containers.org](https://linuxcontainers.org/lxd/try-it/)
