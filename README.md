@@ -18,5 +18,5 @@ The lessons these notes were created from are located at [Linux Academy](https:/
     - #### [LXC Images Part 2:  Publishing, Exporting, and Examining](/lxd_lxc_images.md#lxc-images-part-2-publishing-exporting-and-Examining)
 
 ## Other links
-- [Setting up the RaspberryPi for running Containers](/RaspberryPi_Setup.md)
+- [Setting up the RaspberryPi for running Containers](/raspberrypi_setup.md)
 - Try LXD on line at [Linux containers.org](https://linuxcontainers.org/lxd/try-it/)
